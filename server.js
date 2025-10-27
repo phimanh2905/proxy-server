@@ -331,6 +331,9 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, 'public')));
 
 // ROUTES
+app.get('/', (req, res) => {
+  res.status(200).send(`Proxy Server is running host: ${config.server.host}`);
+});
 // Health Check Endpoint
 app.get('/api/health', (req, res) => {
     res.json({
