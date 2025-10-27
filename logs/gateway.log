@@ -1,0 +1,4 @@
+{"timestamp":"2025-10-27T04:18:48.315Z","level":"info","message":"Forwarding request","method":"GET","url":"https://store.misa.vn/APIs/store/Products/home"}
+{"timestamp":"2025-10-27T04:18:48.451Z","level":"info","message":"Request completed","method":"GET","url":"https://store.misa.vn/APIs/store/Products/home","status":200,"duration":"136ms"}
+{"timestamp":"2025-10-27T04:22:35.130Z","level":"info","message":"Forwarding request","method":"GET","url":"https://store.misa.vn/APIs/store/Products/home"}
+{"timestamp":"2025-10-27T04:22:35.188Z","level":"info","message":"Request completed","method":"GET","url":"https://store.misa.vn/APIs/store/Products/home","status":200,"duration":"58ms"}

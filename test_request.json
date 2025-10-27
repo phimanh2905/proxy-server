@@ -1,0 +1,22 @@
+{
+  "originApi": "https://store.misa.vn/APIs/store/Products",
+  "path": "/home",
+  "method": "GET",
+  "headers": {
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "vi",
+    "Cache-Control": "no-cache",
+    "Connection": "keep-alive",
+    "Pragma": "no-cache",
+    "Referer": "https://store.misa.vn/home",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
+    "TransactionID": "25952c3f-48d7-4662-9e05-01aeeccf4f2c-202510270947431114",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Google Chrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\""
+  },
+  "cookies": "x-store-deviceid=33572f11-65a8-4e30-9b48-ce1be4a4bbc7; _gcl_au=1.1.252800643.1758158512.1021799159.1758880233.1758880233; x-culture=vi; cf_clearance=JQ3kmoJLNdCEtZoSKZF5EXW.nbE2yvNo1qYh33Kpzdc-1759229605-1.2.1.1-orHG_XJbqaZ27Su_0TS2uHbKjJ5n0r88V442Vr8XTIY1VaYfWgMIDygWUBLRs8tsG3zFVtJ1ihg8RXuKMgFPoPyW8JGujBEX8m7W6m_wk7NZAJOGaGy6Cb1ii31GIK1yFEEtPsbESSrl3IbAOdu3AHs.ra14e0netrDPeFuvDhjjfqPgTXus.NXWFlBHiAI4U.bn.zDqEpKRxgtbgri7mZrb_HGR2LvikIveRVKInFg; _ga_K9ETK7TCLK=GS2.1.s1759733530$o1$g1$t1759735544$j60$l0$h0; mp_064b27aee998cba3eecd0ef2ddf4e330_mixpanel=%7B%22distinct_id%22%3A%22%24device%3A2b5b76e0-40bd-4da3-ab47-0a7b28626804%22%2C%22%24device_id%22%3A%222b5b76e0-40bd-4da3-ab47-0a7b28626804%22%2C%22%24initial_referrer%22%3A%22https%3A%2F%2Fihosapp.misa.vn%2F%22%2C%22%24initial_referring_domain%22%3A%22ihosapp.misa.vn%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22https%3A%2F%2Fihosapp.misa.vn%2F%22%2C%22%24initial_referring_domain%22%3A%22ihosapp.misa.vn%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; _ga_LWJC7T36LW=GS2.1.s1759905315$o1$g1$t1759905347$j28$l0$h0; _ga_4S1NDCRVJ3=GS2.1.s1759905315$o1$g1$t1759905347$j28$l0$h0; _ga_JSH567S7RT=GS2.1.s1759905329$o1$g1$t1759905348$j41$l0$h0; _ga_DQ8HH2KBVR=GS2.1.s1759905329$o1$g1$t1759905348$j41$l0$h0; _ga_5ENXT6L936=GS2.1.s1759905238$o1$g1$t1759905357$j1$l0$h0; x-store-cross-sell-info=gm3%2Bx3ONz7Ik26Umb6S5jMz00FBpy59x0snUvRCeAgD7nj%2BqV3S0fwpi1gN9tmOXtWdTqUG7VHFQfRfCuL16uoWLzfPLAzNQZsVzBb6VP0ok57w1RakPWrFSARc5iV49IBkQHGskq4A5FB10DJ%2B2O5s8nHkkQiSH0CgCOOVbis8%3D; _ga_X3HSST6E2Z=GS2.1.s1759905358$o1$g1$t1759905708$j58$l0$h0; _ga_HWGBW34NC5=GS2.1.s1760077986$o2$g0$t1760078517$j60$l0$h0; _ga_W2GLLHS86T=GS2.1.s1760406690$o1$g0$t1760406690$j60$l0$h0; _ga_Y5R0MF68LK=GS2.1.s1760674435$o4$g0$t1760674435$j60$l0$h0; _ga=GA1.1.1583455524.1758158512; _ga_4N8J1W6EBF=GS2.1.s1760674612$o11$g1$t1760674873$j60$l0$h0; _ga_0G4YSV5CQ8=GS2.1.s1760674612$o11$g1$t1760674873$j60$l0$h0; _ga_VM6H96BJ61=GS2.1.s1760674612$o4$g1$t1760674873$j60$l0$h0; _clck=kwpbxq%5E2%5Eg0d%5E0%5E2092; x-store-affiliate-info=dFelRIdBAblESq8PO5x%2BpZrBlyX6VohD4R91rL8fxnBg3tdA0ffLalNWvNMwFx7RU0iV%2BqwmqhzHnijdw3JCEg%3D%3D; _ga_DVFNCR7GCB=GS2.1.s1761124352$o4$g1$t1761125423$j60$l0$h0; _ga_2HDB2Z79W3=GS2.1.s1761186719$o14$g1$t1761186720$j59$l0$h0; ucap_session_id=25880f4f-1dd9-71b8-f711-5a8e8413db1b; ucap_profile_id=5653d589-f9a6-4df9-99ba-bc3bc1c48461; _ga_RDES14NBC8=GS2.1.s1761538283$o55$g1$t1761538287$j56$l0$h0"
+}
