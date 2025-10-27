@@ -2,3 +2,10 @@
 {"timestamp":"2025-10-27T04:18:48.451Z","level":"info","message":"Request completed","method":"GET","url":"https://store.misa.vn/APIs/store/Products/home","status":200,"duration":"136ms"}
 {"timestamp":"2025-10-27T04:22:35.130Z","level":"info","message":"Forwarding request","method":"GET","url":"https://store.misa.vn/APIs/store/Products/home"}
 {"timestamp":"2025-10-27T04:22:35.188Z","level":"info","message":"Request completed","method":"GET","url":"https://store.misa.vn/APIs/store/Products/home","status":200,"duration":"58ms"}
+{"timestamp":"2025-10-27T06:41:15.444Z","level":"info","message":"Forwarding request","method":"GET","url":"https://store.misa.vn/APIs/store/Products/home"}
+{"timestamp":"2025-10-27T06:41:15.580Z","level":"info","message":"Request completed","method":"GET","url":"https://store.misa.vn/APIs/store/Products/home","status":200,"duration":"138ms"}
+{"timestamp":"2025-10-27T07:13:06.588Z","level":"warn","message":"URL validation failed","originApi":"https://misajsc.amis.vn","errors":["Domain not in whitelist: misajsc.amis.vn"]}
+{"timestamp":"2025-10-27T07:22:47.296Z","level":"warn","message":"URL validation failed","originApi":"https://misajsc.amis.vn","errors":["Domain not in whitelist: misajsc.amis.vn"]}
+{"timestamp":"2025-10-27T08:08:13.784Z","level":"warn","message":"URL validation failed","originApi":"https://misajsc.amis.vn","errors":["Domain not in whitelist: misajsc.amis.vn"]}
+{"timestamp":"2025-10-27T08:10:47.964Z","level":"info","message":"Forwarding request","method":"POST","url":"https://misajsc.amis.vn/oneai/g1/api/chat/v1/chats/streaming"}
+{"timestamp":"2025-10-27T08:10:48.124Z","level":"info","message":"Request completed","method":"POST","url":"https://misajsc.amis.vn/oneai/g1/api/chat/v1/chats/streaming","status":401,"duration":"160ms"}
