@@ -9,3 +9,5 @@
 {"timestamp":"2025-10-27T08:08:13.784Z","level":"warn","message":"URL validation failed","originApi":"https://misajsc.amis.vn","errors":["Domain not in whitelist: misajsc.amis.vn"]}
 {"timestamp":"2025-10-27T08:10:47.964Z","level":"info","message":"Forwarding request","method":"POST","url":"https://misajsc.amis.vn/oneai/g1/api/chat/v1/chats/streaming"}
 {"timestamp":"2025-10-27T08:10:48.124Z","level":"info","message":"Request completed","method":"POST","url":"https://misajsc.amis.vn/oneai/g1/api/chat/v1/chats/streaming","status":401,"duration":"160ms"}
+{"timestamp":"2025-10-27T09:22:24.413Z","level":"info","message":"Forwarding request","method":"POST","url":"https://misajsc.amis.vn/oneai/g1/api/chat/v1/chats/streaming"}
+{"timestamp":"2025-10-27T09:22:41.344Z","level":"info","message":"Request completed","method":"POST","url":"https://misajsc.amis.vn/oneai/g1/api/chat/v1/chats/streaming","status":200,"duration":"16931ms"}
